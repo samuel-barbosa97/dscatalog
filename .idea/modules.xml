@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/backend/dscatalog.iml" filepath="$PROJECT_DIR$/backend/dscatalog.iml" />
     </modules>
   </component>
 </project>
